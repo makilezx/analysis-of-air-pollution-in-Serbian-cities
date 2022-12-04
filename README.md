@@ -1,4 +1,4 @@
-# analysis-of-air-pollution-in-Serbian-cities
+# Analysis of air pollution in Serbian cities
 
 Set of analysis aimed to explore official [SEPA](https://www.sepa.gov.rs/) datasets. 
 
