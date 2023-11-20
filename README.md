@@ -24,5 +24,7 @@ The dataset used for this analysis is sourced from the European Environment Agen
 
 - Additional visualizations were created to showcase air pollution levels over the three-year period. An interactive geospatial visualization on the map of Serbia was also made.
 
+- Python libraries Folium and Plotly were used for interactive visualizations, along with Seaborn.
+
 ![geospatial](https://github.com/makilezx/analysis-of-air-pollution-in-Serbian-cities/assets/50851469/e08bd2ba-ba99-4158-aa66-101d0bcdbbc6)
 
